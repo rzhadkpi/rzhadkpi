@@ -2,3 +2,6 @@ I am a diligent and ambitious individual currently pursuing studies at the unive
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rzhadkpi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://myreadme.vercel.app/api/embed/rzhadkpi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<h1>Achievements and certifications<h1>
+<img src="https://imgur.com/a/jBsQY2T"/>
