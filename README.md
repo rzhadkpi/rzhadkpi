@@ -4,4 +4,4 @@ I am a diligent and ambitious individual currently pursuing studies at the unive
 <img src="https://myreadme.vercel.app/api/embed/rzhadkpi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <h1>Achievements and certifications<h1>
-<img src="https://imgur.com/a/jBsQY2T"/>
+<img src="https://imgur.com/a/jBsQY2T" alt="hackathon">
