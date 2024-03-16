@@ -5,4 +5,4 @@ I am a diligent and ambitious individual currently pursuing studies at the unive
 <img src="https://myreadme.vercel.app/api/embed/rzhadkpi?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ## Achievements and certifications
-<img src="https://imgur.com/CpcZ4Ac" />
+<img src="https://imgur.com/a/jBsQY2T" />
